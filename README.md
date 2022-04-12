@@ -1,2 +1,2 @@
 # image-processing-teste3
- Desafio DIO - Descomplicando a CRIAÇÃO DE PACOTES DE PROCESSAMENTO DE IMGANES EM PYTHON
+ Desafio DIO - Descomplicando a criação de pacotes de processamento de imagens em Python
